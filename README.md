@@ -1,6 +1,7 @@
 ### MERN Stack CRUD Application – User Management System
 
 This MERN CRUD app allows users to add, view, update, and remove records through a user-friendly React interface backed by a RESTful API. With clean separation between client and server, it serves as a solid foundation for full‑stack development.
+- You can Find the Folders at **Master Branch** (Make sure to change directory)**
 
 ## 🧰 Features
 
