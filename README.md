@@ -1,4 +1,4 @@
-### MERN-CRUD-Operation
+### MERN Stack CRUD Application – User Management System
 
 This MERN CRUD app allows users to add, view, update, and remove records through a user-friendly React interface backed by a RESTful API. With clean separation between client and server, it serves as a solid foundation for full‑stack development.
 
@@ -13,6 +13,7 @@ This MERN CRUD app allows users to add, view, update, and remove records through
 - **MongoDB**, **Express.js**, **React.js**, **Node.js**  
 - **Mongoose** for schema modeling  
 - **Axios** (client–server HTTP requests)
+- **PostMan**
 
 ## 🚀 Getting Started
 ## 1. Clone the Repository
